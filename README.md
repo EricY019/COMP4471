@@ -1,1 +1,1 @@
-# HKUST-COMP4471-Project
+# COMP4471-Project
