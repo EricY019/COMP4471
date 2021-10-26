@@ -4,7 +4,8 @@ import urllib.request
 def main():
     url = 'http://credit.customs.gov.cn/ccppserver/verifyCode/creator'
     saveDir = r'D:\EricYANG\HKUST\21Fall\comp4471\project\dataset\gifs'
-    filenum = 0
+    num_file = 1000
+    num_crawl = 0
 
 
     # check if legal saveDir, change directory
@@ -15,14 +16,13 @@ def main():
         os.chdir(saveDir)
         print("Store Dir:", saveDir)
     
-
+    
     while(True):
-        filenum += 1
-        print("Crawling gif", filenum)
-        filepath = os.path.join(str(filenum) + '.gif')
+        print("Crawling gif", num_crawl)
+        filepath = os.path.join(str(num_crawl) + '.gif')
         urllib.request.urlretrieve(url, filepath)
-        
-        if (filenum >= 1000):
+        num_crawl += 1
+        if (num_crawl >= num_file):
             break
     
 if __name__ == '__main__':
