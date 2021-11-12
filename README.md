@@ -1,2 +1,2 @@
 # COMP4471-Project
-video captcha recognition
+Video Captcha Recognition
