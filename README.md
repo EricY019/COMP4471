@@ -13,7 +13,7 @@ Dataset-10000 can be downloaded via https://drive.google.com/file/d/1oQjYaxnyYwy
 Dataset-2000 can be downloaded via https://drive.google.com/file/d/1Q1w5Ej0YnQxLAbydYPcE1e4222lgqA-8/view?usp=sharing
 
 # Training Checkpoint
-Will be uploaded soon.
+Our reported training checkpoint can be downloaded via https://drive.google.com/file/d/1qCt2LGcMiNRTJawm67MJVXWISFnOy_eF/view?usp=sharing
 
 # Final Report
 Will be uploaded soon.
