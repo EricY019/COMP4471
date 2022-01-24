@@ -1,4 +1,4 @@
-# Video Captcha Recognition -- 2021F COMP4471 Final Project
+# Video CAPTCHA Recognition -- 2021F COMP4471 Final Project
 ./Code_CAPTCHA_generator stores the code of our dataset generator.
 
 ./Code_ResNet-2D stores the code of our baseline network, specifically, utilizing ResNet as feature extractor.
