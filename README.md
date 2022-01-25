@@ -1,4 +1,6 @@
-# Video CAPTCHA Recognition -- 2021F COMP4471 Final Project
+# Dynamic CAPTCHA Recognition
+Objective: Recognize the characters of a dynamic text-based CAPTCHA.
+
 ./Code_CAPTCHA_generator stores the code of our dataset generator.
 
 ./Code_ResNet-2D stores the code of our baseline network, specifically, utilizing ResNet as feature extractor.
