@@ -1,5 +1,5 @@
 # Dynamic CAPTCHA Recognition
-Objective: Recognize the characters of a dynamic text-based CAPTCHA.
+We collected a dynamic textbased CAPTCHA dataset (DyCap), containing 10,000 CAPTCHAs with 250,000 frames. All dynamic CAPTCHAs include moving characters and interference characters, and are annotated with corresponding ground truths. Furthermore, we present our proposed network, which utilizes features extracted by a convolutional neural network (CNN) between neighbouring frames in a duplet network.
 
 ./Code_CAPTCHA_generator stores the code of our dataset generator.
 
