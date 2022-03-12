@@ -18,4 +18,4 @@ Dataset-2000 can be accesssed via https://drive.google.com/file/d/1Q1w5Ej0YnQxLA
 Our reported training checkpoint can be accessed via https://drive.google.com/file/d/1qCt2LGcMiNRTJawm67MJVXWISFnOy_eF/view?usp=sharing
 
 # Final Report
-Our final report can be accessed via https://drive.google.com/file/d/1rLli5odD1HeE-I3sIdwH6XjNS8Gs32SC/view?usp=sharing
+Our final report can be accessed via https://pan.baidu.com/s/1Dv6Bx6Y9QUkGzccCZJN5Og?pwd=dsv8
