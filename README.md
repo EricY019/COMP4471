@@ -1,13 +1,13 @@
 # Dynamic CAPTCHA Recognition
 We collected a dynamic textbased CAPTCHA dataset (DyCap), containing 10,000 CAPTCHAs with 250,000 frames. All dynamic CAPTCHAs include moving characters and interference characters, and are annotated with corresponding ground truths. Furthermore, we present our proposed network, which utilizes features extracted by a convolutional neural network (CNN) between neighbouring frames in a duplet network.
 
-./Code_CAPTCHA_generator stores the code of our dataset generator.
+```./Code_CAPTCHA_generator```stores the code of our dataset generator.
 
-./Code_ResNet-2D stores the code of our baseline network, specifically, utilizing ResNet as feature extractor.
+```./Code_ResNet-2D``` stores the code of our baseline network, specifically, utilizing ResNet as feature extractor.
 
-./Code_network stores the code of our proposed network.
+```./Code_network``` stores the code of our proposed network.
 
-./Example_dataset presents some examples of our dataset.
+```./Example_dataset``` presents some examples of our dataset.
 
 # Dataset
 Dataset-10000 can be accessed via https://drive.google.com/file/d/1oQjYaxnyYwyObrHv7yPa3A3FRMBC8_6c/view?usp=sharing
